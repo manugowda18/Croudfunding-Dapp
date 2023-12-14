@@ -11,12 +11,12 @@ Follow these steps to get the CrowdFunding Dapp up and running on your local mac
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/flenex-io/CrowdFunding.git
+    git clone https://github.com/manugowda18/CrowdFunding-Dapp.git
     ```
 
 2. **Change the repository**
    ```bash
-   cd CrowdFunding
+   cd CrowdFunding-Dapp
    ```
 
 3. **Install Dependencies:**

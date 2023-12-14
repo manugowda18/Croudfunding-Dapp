@@ -2,8 +2,7 @@
 
 ## Description
 
-Welcome to the Crowdfunding Dapp, a decentralized application that allows users to contribute funds to a crowdfunding campaign. This Dapp provides transparency by displaying the names, timestamps, and wallet addresses of contributors on the website.
-
+Welcome to the Crowdfunding Dapp, a decentralized application that allows users to contribute funds to a crowdfunding campaign. T
 
 ## Getting Started
 
@@ -28,4 +27,3 @@ Follow these steps to get the CrowdFunding Dapp up and running on your local mac
     ```bash
     npm start
     ```
-## Open For Contributions
